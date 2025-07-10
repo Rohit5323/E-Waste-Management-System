@@ -20,46 +20,7 @@ This is a Java Swing-based **E-Waste Management System** that helps users submit
 - **View & Delete Users**, including their associated requests.
 
 ---
-
-## 📁 File Structure
-
-```
-├── Ewast.java            # Main Java Swing GUI application
-├── users.txt             # Stores user info: id,email,name,phone,password,address
-├── requests.txt          # Stores user requests: request_id,user_id,category,desc,address,date,status
-├── README.md             # Project documentation
-```
-
----
-
-## 📌 Requirements
-
-- Java 8 or above
-- No external libraries needed
-- IDE: IntelliJ, Eclipse, or any Java-supported editor
-
----
-
-## 🔧 How to Run
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/ewaste-management-java.git
-   cd ewaste-management-java
-   ```
-
-2. **Open in IDE**  
-   Open `Ewast.java` in your preferred Java IDE.
-
-3. **Run the Application**  
-   Run the `main()` method in `Ewast.java`.
-
-4. **Login as Admin (optional)**  
-   ```
-   Email: admin
-   Password: admin
-   ```
-
+ 
 ---
 
 ## 🧪 Sample Credentials (For Testing)
@@ -74,13 +35,7 @@ This is a Java Swing-based **E-Waste Management System** that helps users submit
   ```
   U1234,john@example.com,John Doe,9876543210,password123,123 Main Street
   ```
-
-- **Sample Request Entry (requests.txt):**
-  ```
-  R1001,U1234,Laptop,Broken screen,123 Main Street,2025-07-04,Pending
-  ```
-
----
+ ---
 
 ## 📌 Notes
 
