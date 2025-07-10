@@ -1,0 +1,4 @@
+-,admin,-,-,admin,-
+U1336,rohit@gmail.com,Rohit,8780149265,123456,Ahmedabad
+U5271,smit@gmail.com,Smit,875694135,123456,Ahmedabad
+U8546,deep@gmail.com,Deep,9913381248,123456,Rajkot
